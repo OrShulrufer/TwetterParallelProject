@@ -1,0 +1,6 @@
+CONSUMER_KEY = 'HMnNDIlLnpxqoyAQC9gSs1ZxX'
+CONSUMER_SECRET = 'uba7NCMbtGiLUOSs3cPp2TlzuveBZhUlCkBLLhQiHJFqx9zmvf'
+ACCESS_TOKEN = '1153613267195039744-7ZDSA7vWYGJJnylob0or1tj6WHmoN0'
+ACCESS_TOKEN_SECRET = 'xGpjqcAcEwzpCvG57DWghb4FwNfjV81UYuavTmxVZiVOb'
+HOST = "127.0.0.1"  # Get local machine
+PORT = 9999  # Reserve a port for your service.
